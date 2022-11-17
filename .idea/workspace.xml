@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c955683-93a2-4c0b-9285-c65e99f2c031" name="Changes" comment="">
+    <list default="true" id="70620984-0490-4869-84e9-3a54a3b0b0a1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -10,12 +10,37 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="develop" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <bower-package value="" />
+    <bower.json value="" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2FgtXH0sYgRDwH8gWWDyObv4jSE" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2FgUlKsVYF870UGlK0PM0FUpCLE" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,8 +52,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Seba/Documents/Local/portfolio-frontend",
+    "last_opened_file_path": "/home/sebastian/local/portfolio-frontend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
     "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/home/sebastian/local/portfolio-frontend/node_modules/prettier",
+    "settings.editor.selected.configurable": "Settings.JavaScript.Linters.JSHint",
+    "ts.external.directory.path": "/home/sebastian/.local/share/JetBrains/Toolbox/apps/WebStorm/ch-0/222.4167.31/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -58,16 +90,35 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4c955683-93a2-4c0b-9285-c65e99f2c031" name="Changes" comment="" />
-      <created>1664925592566</created>
+      <changelist id="70620984-0490-4869-84e9-3a54a3b0b0a1" name="Changes" comment="" />
+      <created>1664913371661</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1664925592566</updated>
-      <workItem from="1664925595044" duration="1997000" />
+      <updated>1664913371661</updated>
+      <workItem from="1664913375619" duration="3540000" />
+      <workItem from="1664995542593" duration="621000" />
+      <workItem from="1665078528858" duration="203000" />
+      <workItem from="1665490477213" duration="4490000" />
+      <workItem from="1665497034847" duration="4362000" />
+      <workItem from="1665505773784" duration="3190000" />
+      <workItem from="1665513742440" duration="21238000" />
+      <workItem from="1665661976691" duration="1795000" />
+      <workItem from="1668693504047" duration="1521000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
